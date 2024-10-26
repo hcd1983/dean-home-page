@@ -8,7 +8,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "format": "prettier --write \"src/**/*.{js,ts,vue,json,css,scss,md,html}\"",
-    "formatIndex": "prettier --write \"index.html\""
+    "formatIndex": "prettier --write \"index.html\"",
+    "preDeploy": "vite build --outDir docs"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
