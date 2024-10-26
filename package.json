@@ -1,0 +1,25 @@
+{
+  "name": "dean-home-page",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "format": "prettier --write \"src/**/*.{js,ts,vue,json,css,scss,md,html}\"",
+    "formatIndex": "prettier --write \"index.html\""
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "prettier": "^3.3.3",
+    "typescript": "~5.6.2",
+    "vite": "^5.4.9"
+  },
+  "dependencies": {
+    "eslint-plugin-prettier": "^5.2.1",
+    "material-icons": "^1.13.12",
+    "normalize.css": "^8.0.1"
+  }
+}
