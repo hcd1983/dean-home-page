@@ -2,6 +2,8 @@
 
 https://www.figma.com/design/dM23FDPxIl20pGjjg9l32s/%F0%9F%8E%A8-Personal-Portfolio-Template-(Community)?node-id=205-151&m=dev
 
+成果: https://github.hcd-design-studio.com/dean-home-page/
+
 ```
 // 安裝
 yarn
