@@ -22,6 +22,18 @@
   --grey: #9c9c9c;
 }
 
+html, body, #wrap {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+#wrap {
+  position: relative;
+}
+
 body {
   padding: 0;
   margin: 0;
