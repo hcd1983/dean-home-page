@@ -380,6 +380,12 @@ section {
     font-size: calc(100vw / 1280 * 16);
   }
 
+  @media (min-width: 1561px) {
+    html {
+      font-size: 16px;
+    }
+  }
+
   #header {
     transition: all 0.3s ease-in-out;
     &.minimized {
